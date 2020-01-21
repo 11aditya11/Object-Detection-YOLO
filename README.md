@@ -1,4 +1,4 @@
-# Object-Detection-YOLO
+# Vehicle Number Plate Detection
 In this project - 
 1. Vehicle is detected by YOLO object detection algorithm
 2. Number plate of vehicle is cropped from detected vehicle.
